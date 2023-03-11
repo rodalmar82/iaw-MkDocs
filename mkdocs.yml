@@ -1,0 +1,19 @@
+site_name: IAW
+
+nav:
+  - Principal: index.md
+  - Acerca de : about.md
+  - Practica 2: 2023-03-09-practica02.markdown
+  - Practica 4: 2023-03-09-practica04.markdown
+
+
+
+
+theme:
+    name: material
+    language: es
+    palette:
+        scheme: slate
+        primary: yellow
+
+repo_url: https://github.com/rodalmar82/iaw-practica02
